@@ -1,2 +1,2 @@
-Convolutional Neural Network (CNN) to train machine learning model on images of andriod apps that user likes. Use VGG16 model & weights. 
+Use Convolutional Neural Network (CNN) to train machine on images of andriod apps that user likes. Use VGG16 model & weights. 
 Through Linear Regression Most likely Screenshots of apps Recommended to the user. 
