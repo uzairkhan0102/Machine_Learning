@@ -1,0 +1,3 @@
+Detect Breast cancer through scanned images of patients.
+Breast cancer patients data used to train the model and then categorize in two classes, i-e Malignant or benign.
+Model secure 91.2% of accuracy on the data
